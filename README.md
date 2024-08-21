@@ -14,5 +14,12 @@ Softwares:
 
 Metodos 
 
-  - Metodo de nodos
-  - Metodo de mallas
+  - Metodo de nodos : Se obtienen las tensiones de los nodos mediante la expresion:  v = inv(G)*v
+    
+    <img src="https://github.com/user-attachments/assets/98d7944c-b3d5-44d0-9db0-a35eab1798db" alt="imagen" width="200"/> 
+    
+
+  - Metodo de mallas : Se obtienen las corrientes de las mallas (en circuitos planares) mediante la expresion:  i = inv(R)*v
+
+    <img src="https://github.com/user-attachments/assets/4a00c4d5-00cd-4eda-941c-89ad6e81264e" alt="imagen" width="200"/> 
+
