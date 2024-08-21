@@ -1,9 +1,9 @@
 clc;
 clear all;
 
-v1 = 5
+i1 = 5
 
-v2 = 3
+i2 = 3
 
 R1 = 100
 
@@ -22,7 +22,7 @@ G = [G1+G2 ,	-G2 ;
     -G2	 ,	G2+G3]
 
 
-v = [ v1 ; v2 ]
+i = [ i1-i2 ; i2 ]
 
 "Resultado"
-i = inv(G)*v 
+v = inv(G)*i 
