@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * Z:\home\sebastian\FIUBA-2do Cuatrimestre\Analisis de Circuitos\Analisis-de-Circuitos\Simulaciones\Ejemplo.asc
+Start Time: Wed Aug 21 10:47:16 2024
+Error on line 6 : i1 n002 0 2*i2
+	 Unknown parameter "*i2"
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.078 seconds.
+
