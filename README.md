@@ -23,3 +23,8 @@ Metodos
 
     <img src="https://github.com/user-attachments/assets/4a00c4d5-00cd-4eda-941c-89ad6e81264e" alt="imagen" width="200"/> 
 
+
+Resueltos:
+
+![imagen](https://github.com/user-attachments/assets/b987a6ae-2dc9-4125-9278-c46688ef20e8)
+
